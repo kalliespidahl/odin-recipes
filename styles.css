@@ -1,0 +1,15 @@
+*{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1{
+    font-weight: 700px;
+}
+
+.nobull{
+    list-style-type: none;
+}
+
+p{
+    color: blue;
+}
